@@ -40,7 +40,7 @@ This code is intended to teach or demonstrate programming concepts and should no
 
 ### Installation (Windows Only)
 
-- Just, Clone this repository -
+- Just, Clone this repository (Windows Only) -
   ```
   git clone https://github.com/mohammmedVDX/VDXboomer.git
   ```
