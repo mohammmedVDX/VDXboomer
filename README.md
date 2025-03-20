@@ -4,11 +4,19 @@
   <img src="https://raw.githubusercontent.com/mohammmedVDX/VDXboomer/refs/heads/main/misc/logo.png">
 </p>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-0.10 Beta-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VDX-tech-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-VDX--MAN-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-No-red?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-darkcyan?style=flat-square">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhtr-tech%2Fzphisher&title=Visitors&edge_flat=false"/></a>
 </p>
 
 
