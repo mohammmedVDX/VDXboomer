@@ -42,7 +42,7 @@ This code is intended to teach or demonstrate programming concepts and should no
 
 - Just, Clone this repository (Linux) -
   ```
-  git clone https://github.com/mohammmedVDX/VDXboomer.git
+  git clone -b linux-version https://github.com/mohammmedVDX/VDXboomer.git
   ```
   
 - Now Download Requirements (Linux) -
