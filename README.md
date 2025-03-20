@@ -44,11 +44,17 @@ This code is intended to teach or demonstrate programming concepts and should no
   ```
   git clone https://github.com/mohammmedVDX/VDXboomer.git
   ```
-
+  
+- Now Download Requirements -
+  ```
+  cd VDXboomer
+  pip install -r requirements.txt
+  ```
+  
 - Now go to cloned directory and run `VDXboomer.py` -
   ```
-  $ cd VDXboomer
-  $ python VDXboomer.py
+  cd VDXboomer
+  python VDXboomer.py
   ```
 
 ##
