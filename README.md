@@ -42,7 +42,7 @@ This code is intended to teach or demonstrate programming concepts and should no
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://github.com/htr-tech/zphisher.git
+  git clone https://github.com/mohammmedVDX/VDXboomer.git
   ```
 
 - Now go to cloned directory and run `VDXboomer.py` -
@@ -54,7 +54,7 @@ This code is intended to teach or demonstrate programming concepts and should no
 ##
 
 <p align="left">
-  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/htr-tech/zphisher.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
+  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/mohammmedVDX/VDXboomer.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
 </p>
 
 
@@ -66,20 +66,6 @@ This code is intended to teach or demonstrate programming concepts and should no
 - **Termux**
 </details>
 
-##
-
-<h3 align="center"><i>:: Workflow ::</i></h3>
-<p align="center">
-<img src=".github/misc/workflow.gif"/>
-</p>
-
-##
-
-### Find Me on:
-<p align="left">
-  <a href="https://tahmidrayat.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
-  <a href="https://github.com/htr-tech" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
-</p>
 
 
 
