@@ -1,7 +1,7 @@
 <!-- Zphisher -->
 
 <p align="center">
-  <img src=".github/misc/logo.png">
+  <img src="https://raw.githubusercontent.com/mohammmedVDX/VDXboomer/refs/heads/main/misc/logo.png">
 </p>
 
 <p align="center">
