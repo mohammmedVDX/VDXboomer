@@ -58,6 +58,28 @@ This code is intended to teach or demonstrate programming concepts and should no
   ```
 
 ##
+##
+
+### Installation (Linux)
+
+- Just, Clone this repository (Linux) -
+  ```
+  git clone -b linux-version https://github.com/mohammmedVDX/VDXboomer.git
+  ```
+  
+- Now Download Requirements (Linux) -
+  ```
+  cd VDXboomer
+  pip install -r requirements.txt
+  ```
+  
+- Now go to cloned directory and run `VDXboomer.py`(Linux) -
+  ```
+  cd VDXboomer
+  python VDXboomer.py
+  ```
+
+##
 
 <p align="left">
   <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/mohammmedVDX/VDXboomer.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
