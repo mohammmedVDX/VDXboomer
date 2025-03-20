@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-0.10 Beta-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/mohammmedVDX/VDXboomer?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/mohammmedVDX/VDXboomer?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/mohammmedVDX/VDXboomer?color=red&style=for-the-badge">
   <img src="https://img.shields.io/github/forks/mohammmedVDX/VDXboomer?color=teal&style=for-the-badge">
@@ -16,7 +15,7 @@
   <img src="https://img.shields.io/badge/Author-VDX--blue?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-No-red?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-darkcyan?style=flat-square">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhtr-tech%2Fzphisher&title=Visitors&edge_flat=false"/></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmohammmedVDX%2FVDXboomer&title=Visitors&edge_flat=false"/></a>
 </p>
 
 
