@@ -38,20 +38,20 @@ This code is intended to teach or demonstrate programming concepts and should no
 
 ##
 
-### Installation (Windows Only)
+### Installation (Linux)
 
-- Just, Clone this repository (Windows Only) -
+- Just, Clone this repository (Linux) -
   ```
   git clone https://github.com/mohammmedVDX/VDXboomer.git
   ```
   
-- Now Download Requirements (Windows Only) -
+- Now Download Requirements (Linux) -
   ```
   cd VDXboomer
   pip install -r requirements.txt
   ```
   
-- Now go to cloned directory and run `VDXboomer.py`(Windows Only) -
+- Now go to cloned directory and run `VDXboomer.py`(Linux) -
   ```
   cd VDXboomer
   python VDXboomer.py
